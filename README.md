@@ -18,5 +18,7 @@ MNIST data set has been used.
 
 ## acknowledgement
 
-A portion of code is taken from http://miguelromao.me/2018/03/20/convolutional-neural-networks-for-the-mnist-dataset-tensorflowlayers-and-keras/
+A portion of code is taken from http://miguelromao.me/2018/03/20/convolutional-neural-networks-for-the-mnist-dataset-tensorflowlayers-and-keras/ and thanks to [sentdex](https://www.youtube.com/watch?v=BhpvH5DuVu8&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP&index=3) for the detailed explanation.
+
+
 
