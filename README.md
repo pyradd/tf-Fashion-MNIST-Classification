@@ -3,6 +3,7 @@ Its a very simple neural network with two hidden layers. The advantage of using 
 ## Data set 
 MNIST data set has been used.
 
+<<<<<<< HEAD
 ## Requirements
 
 * Tensorflow >= 1.6
@@ -19,3 +20,6 @@ MNIST data set has been used.
 ## acknowledgement
 
 A portion of code is taken from http://miguelromao.me/2018/03/20/convolutional-neural-networks-for-the-mnist-dataset-tensorflowlayers-and-keras/
+=======
+## MNIST data set has been used.
+>>>>>>> 6187da1f350238b10b946681fbb28daa13a2ede1
